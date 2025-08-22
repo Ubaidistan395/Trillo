@@ -5,8 +5,11 @@ node_modules/
 dist/
 build/
 
-# Compiled CSS (optional if you're compiling from Sass)
+# Ignore all CSS files except style.css
 *.css
+!style.css
+
+# Ignore CSS source maps
 *.css.map
 
 # Sass cache
