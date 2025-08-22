@@ -1,0 +1,28 @@
+# Node modules (if using npm/yarn)
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Compiled CSS (optional if you're compiling from Sass)
+*.css
+*.css.map
+
+# Sass cache
+.sass-cache/
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.*
