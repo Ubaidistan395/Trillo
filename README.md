@@ -35,7 +35,6 @@ Embark on a journey with Trillo and redefine the way you travel. Your story awai
 ## Built With ❤️
 
 - **HTML & SASS** for a beautiful, maintainable, and responsive design
-- **JavaScript** for interactive and dynamic features
 - **Vercel** for lightning-fast and reliable deployment
 
 ---
